@@ -1,14 +1,14 @@
 [
     {
         "id": "1",
-        "ads_data": "{\"sdk_key\":\"jf\",\"banner_ad_id\":\"ci\",\"inter_ad_id\":\"fi\",\"native_ad_id\":\"ci\"}",
+        "ads_data": "{}",
         "download_url": "https:\/\/example.com\/download.apk",
         "web_url": "https:\/\/example.com",
-        "app_version": "0",
+        "app_version": "5",
         "message": "New update available!",
-        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.acces.starsports.glowingstar",
-        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.acces.starsports.glowingstar",
+        "message_url": "https:\/\/example.com\/update",
+        "share_message": "Share Message",
         "bottom_visible": "no",
-        "msg_visible": "no"
+        "msg_visible": "yes"
     }
 ]
