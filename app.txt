@@ -1,18 +1,6 @@
 [
     {
         "id": "1",
-        "ads_data": "{\"sdk_key\":\"kc\",\"banner_ad_id\":\"ic\",\"inter_ad_id\":\"vi\",\"native_ad_id\":\"ck\"}",
-        "download_url": "https:\/\/example.com\/download.apk",
-        "web_url": "https:\/\/example.com",
-        "app_version": "0",
-        "message": "New update available!",
-        "message_url": "https:\/\/example.com\/update",
-        "share_message": "Share Message",
-        "bottom_visible": "no",
-        "msg_visible": "no"
-    },
-    {
-        "id": "2",
         "ads_data": "{}",
         "download_url": "https:\/\/example.com\/download.apk",
         "web_url": "https:\/\/example.com",
@@ -20,7 +8,7 @@
         "message": "New update available!",
         "message_url": "https:\/\/example.com\/update",
         "share_message": "Share Message",
-        "bottom_visible": "yes",
+        "bottom_visible": "no",
         "msg_visible": "yes"
     }
 ]
