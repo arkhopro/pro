@@ -2,7 +2,7 @@
     {
         "id": "1",
         "ads_data": "{\"sdk_key\":\"if\",\"banner_ad_id\":\"kc\",\"inter_ad_id\":\"ci\",\"native_ad_id\":\"kc\"}",
-        "download_url": "https:\/\/example.com\/download.apk",
+        "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.murshans.cricket.score.glowing",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "We sincerely apologize \ud83d\ude4f Our previous app was removed from the Play Store, which is why we asked you to download our new app.  (Please support us by using the new app and giving a 5\u2b50 rating \ud83c\udf1f)\n\nThank you for your support \u2764\ufe0f",
